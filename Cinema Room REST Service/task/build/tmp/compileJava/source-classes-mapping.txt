@@ -1,0 +1,16 @@
+cinema/Ticket.java
+ cinema.Ticket
+cinema/TaskController.java
+ cinema.TaskController
+cinema/Seat.java
+ cinema.Seat
+cinema/Cinema.java
+ cinema.Cinema
+cinema/Main.java
+ cinema.Main
+cinema/ReturnedTicketResponse.java
+ cinema.ReturnedTicketResponse
+cinema/Stats.java
+ cinema.Stats
+cinema/ErrorResponse.java
+ cinema.ErrorResponse
